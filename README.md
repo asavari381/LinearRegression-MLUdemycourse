@@ -1,4 +1,4 @@
-# LinearRegression-MLUdemycourse (I am uploading it quite late)
+# Implementing LinearRegression from scratch
 This is a basic coursework assignment I had done during my Udemy online course on Machine Learning. The task was to implement a basic machine learning algorithm from scratch to gain a deeper understanding of the underlying principles. It taught me how to implement the underlying principles of linear regression and gradient descent.
 
 1. Understanding Linear Regression
